@@ -1,2 +1,6 @@
-draftwatermark 19
-
+orcidlink	 2
+decisiontable    6  
+draftwatermark	 19 	
+pbalance         19 
+chemnum          27 
+jslectureplanner 32 
