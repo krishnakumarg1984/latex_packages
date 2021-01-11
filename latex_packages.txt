@@ -1,6 +1,17 @@
-orcidlink	 2
-decisiontable    6  
-draftwatermark	 19 	
-pbalance         19 
-chemnum          27 
-jslectureplanner 32 
+calxxxx − yyyy      1
+graphicspxd         2
+orcidlink           2
+skeldoc             4
+decisiontable       6
+biblatex-software  12
+pdfpages           12
+newverbs           14
+draftwatermark     19
+pbalance           19
+moodle             26
+chemnum            27
+multirow           31
+jslectureplanner   32
+csquotes           49
+fancyhdr           74
+nicematrix        187
