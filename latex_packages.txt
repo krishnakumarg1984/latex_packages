@@ -10,11 +10,13 @@ footnotehyper      14
 newverbs           14
 showexpl           14
 pxpic              16
+luaul              18
 draftwatermark     19
 pbalance           19
 moodle             26
 chemnum            27
 fcolumn            27
+cellprops          30
 multirow           31
 jslectureplanner   32
 changes            34
