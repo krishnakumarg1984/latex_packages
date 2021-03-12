@@ -9,6 +9,7 @@ graphicspxd       2
 mlmodern          2
 orcidlink         2
 overlays          2
+mindflow          3
 twemojis          3
 skeldoc           4
 decisiontable     6
@@ -29,6 +30,7 @@ draftwatermark    19
 pbalance          19
 ragged2e          20
 blox              21
+lua-typo          26
 chemnum           27
 fcolumn           27
 moodle            29
@@ -42,6 +44,7 @@ hyperref          59
 fancyhdr          76
 xsim              79
 chemfig           83
+lipsum            87
 stix2-otf         93
 numerica          95
 tzplot            136
