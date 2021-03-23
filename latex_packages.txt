@@ -13,6 +13,7 @@ lectureslides     3
 mindflow          3
 orcidlink         3
 twemojis          3
+addfont 	  4
 biblatex-license  4
 colorist          4
 einfart           4
@@ -50,6 +51,7 @@ multirow          32
 changes           34
 doclicense        36
 tikzmark          37
+make4ht           38
 csquotes          49
 hyperref          59
 fancyhdr          76
@@ -58,9 +60,11 @@ chemfig           83
 lipsum            87
 stix2-otf         93
 numerica          95
-tzplot            136
+tzplot            137
 spath3            163
+datetime2  	  181
 asymptote         193
 nicematrix        197
 circuitikz        206
 beamer            247
+komascript        567
