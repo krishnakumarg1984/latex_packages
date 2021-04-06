@@ -12,8 +12,10 @@ orcidlink           2
 overlays            2
 intopdf             3
 lectureslides       3
+mindflow            3
 orcidlink           3
 twemojis            3
+addfont             4
 biblatex-license    4
 colorist            4
 einfart             4
@@ -54,6 +56,7 @@ changes             34
 beamertheme-trigon  36
 doclicense          36
 tikzmark            37
+make4ht             38
 csquotes            49
 attachfile2         52
 hyperref            59
@@ -64,9 +67,12 @@ lipsum              87
 stix2-otf           93
 numerica            95
 tzplot              136
+tzplot              137
 spath3              163
+datetime2           181
 asymptote           193
 nicematrix          197
 circuitikz          206
 babel               215
 beamer              247
+komascript          567
