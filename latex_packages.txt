@@ -125,6 +125,7 @@ worldflags               25
 chemnum                  27
 fcolumn                  27
 docsurvey                29
+fancybox                 29
 moodle                   29
 cellprops                30
 bigdelim                 32
@@ -139,6 +140,7 @@ todonotes                37
 doclicense               38
 make4ht                  38
 fontsize                 39
+multicol                 39
 euclideangeometry        40
 mathtools                40
 easyfloats               43
