@@ -88,6 +88,7 @@ utfsym                    9
 cascade                  10
 beaulivre                11
 biblatex-software        12
+graphbox                 12
 pdfpages                 12
 proof-at-the-end         12
 skills                   12
