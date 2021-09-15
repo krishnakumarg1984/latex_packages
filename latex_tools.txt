@@ -1,4 +1,4 @@
 git-latexdiff https://gitlab.com/git-latexdiff/git-latexdiff
 jupynotex     https://github.com/facundobatista/jupynotex/
-tikz2svg      2
+tikztosvg     2
 albatross     8

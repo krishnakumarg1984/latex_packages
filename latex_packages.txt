@@ -32,6 +32,7 @@ modernposter              3
 ninecolors                3
 nl-interval               3
 orcidlink                 3
+orcidlink                 3
 sectionbreak              3
 subtext                   3
 totalcount                3
@@ -163,6 +164,7 @@ lipsum                   87
 stix2-otf                93
 numerica                 95
 hyperxmp                116
+phonenumbers            127
 hvfloat                 128
 exam                    133
 tzplot                  137
@@ -171,10 +173,9 @@ pythontex               149
 spath3                  163
 datetime2               181
 asymptote               193
-babel                   215
 babel                   222
 circuitikz              227
-nicematrix              228
+nicematrix              241
 beamer                  247
 tcolorbox               539
 komascript              567
