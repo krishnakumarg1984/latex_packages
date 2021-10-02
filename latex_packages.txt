@@ -6,6 +6,7 @@ Package Name           Pages
 businesscard-qrcode       1
 calxxxx−yyyy              1
 cmap                      1
+debate                    1
 dpcircling                1
 ffcode                    1
 href-ul                   1
