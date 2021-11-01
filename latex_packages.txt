@@ -90,6 +90,7 @@ utfsym                    9
 cascade                  10
 beaulivre                11
 biblatex-software        12
+bodeplot                 12
 graphbox                 12
 pdfpages                 12
 proof-at-the-end         12
@@ -105,6 +106,7 @@ newverbs                 14
 pdfoverlay               14
 showexpl                 14
 subfiles                 14
+cutwin                   15
 footnotehyper            15
 graphpaper               15
 mismath                  15
