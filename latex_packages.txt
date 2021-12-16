@@ -10,7 +10,10 @@ debate                    1
 dpcircling                1
 ffcode                    1
 href-ul                   1
+iexec                     1
+to-be-determined          1
 centerlastline            2
+clicks                    2
 clrdblpg                  2
 dynbrackets               2
 eqnnumwarn                2
@@ -18,7 +21,6 @@ gitver                    2
 graphicspxd               2
 leftindex                 2
 mlmodern                  2
-orcidlink                 2
 overlays                  2
 widows-and-orphans        2
 xurl                      2
@@ -28,11 +30,9 @@ froufrou                  3
 intopdf                   3
 latex-doc-ptr             3
 lectureslides             3
-mindflow                  3
 modernposter              3
 ninecolors                3
 nl-interval               3
-orcidlink                 3
 orcidlink                 3
 sectionbreak              3
 subtext                   3
@@ -50,10 +50,12 @@ einfart                   4
 fbox                      4
 gatherenum                4
 highlight-latex           4
+inputnormalization        4
 labelschanged             4
 lebhart                   4
 ltx4yt                    4
 mindflow                  4
+nndraw                    4
 noindentafter             4
 pbalance                  4
 prelim2e                  4
@@ -63,12 +65,14 @@ spbmark                   4
 vtable                    4
 abraces                   5
 arraycols                 5
+hvlogos                   5
 hvqurl                    5
 pgf-pie                   5
 secnum                    5
 topiclongtable            5
 decisiontable             6
 eqexpl                    6
+fontsetup-nonfree         6
 vcell                     6
 xcpdftips                 6
 beamerauxtheme            7
@@ -79,8 +83,11 @@ mlmath                    7
 newpax                    7
 pinoutikz                 7
 polynom                   7
+smart-eqn                 8
 spacingtricks             8
+zref-check                8
 algpseudox                9
+color-edits               9
 diabetes-logbook          9
 embrac                    9
 kblocks                   9
@@ -97,15 +104,18 @@ proof-at-the-end         12
 skills                   12
 beamerthemenord          13
 gridpapers               13
+linenoamsmath            13
 simplivre                13
 tikz-imagelabels         13
 dimnum                   14
+graphicscache            14
 innerscript              14
 mparhack                 14
 newverbs                 14
 pdfoverlay               14
 showexpl                 14
 subfiles                 14
+codehigh                 15
 cutwin                   15
 footnotehyper            15
 graphpaper               15
@@ -146,10 +156,10 @@ doclicense               38
 make4ht                  38
 fontsize                 39
 multicol                 39
+phfcc                    39
 euclideangeometry        40
 mathtools                40
 easyfloats               43
-csquotes                 49
 csquotes                 50
 attachfile2              52
 bookmark                 53
@@ -171,8 +181,8 @@ phonenumbers            127
 hvfloat                 128
 exam                    133
 tzplot                  137
-tabularray              139
 pythontex               149
+tabularray              160
 spath3                  163
 datetime2               181
 asymptote               193
@@ -183,8 +193,9 @@ beamer                  247
 tcolorbox               539
 komascript              567
 pgfplots                573
-autofancyhdr         600N/A
 pgf                    1321
+autofancyhdr        1500N/A
+jupynotex           1500N/A
 
 ________________________________________________________________
 
@@ -193,8 +204,13 @@ Lua-Only Packages
 -----------------
 
 stricttex                 2
+lutabulartools            4
 lua-visual-debug          5
 barracuda                 6
+semesterplanner           6
+yamlvars                  6
+pylualatex                7
+truthtable                8
 innerscript              14
 luaul                    18
 lua-typo                 34

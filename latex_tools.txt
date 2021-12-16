@@ -1,4 +1,5 @@
 git-latexdiff https://gitlab.com/git-latexdiff/git-latexdiff
 jupynotex     https://github.com/facundobatista/jupynotex/
+texsurgery    1
 tikztosvg     2
-albatross     8
+albatross     9
