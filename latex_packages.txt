@@ -27,6 +27,7 @@ xurl                      2
 beamerappendixnote        3
 exercisepoints            3
 froufrou                  3
+interval                  3
 intopdf                   3
 latex-doc-ptr             3
 lectureslides             3
