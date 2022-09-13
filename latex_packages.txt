@@ -71,6 +71,7 @@ hvlogos                   5
 hvqurl                    5
 pgf-pie                   5
 secnum                    5
+textcsc                   5
 topiclongtable            5
 decisiontable             6
 eqexpl                    6
@@ -88,7 +89,7 @@ polynom                   7
 smart-eqn                 8
 spacingtricks             8
 zref-check                8
-algpseudox                9
+algpseudocodex            9
 color-edits               9
 diabetes-logbook          9
 embrac                    9
@@ -168,7 +169,6 @@ bookmark                 53
 bytefield                58
 csvsimple                59
 hyperref                 59
-pseudo                   61
 chemmacros               73
 siunitx                  73
 fancyhdr                 76
@@ -176,6 +176,7 @@ xsim                     79
 chemfig                  83
 exframe                  85
 lipsum                   87
+pseudo                   91
 stix2-otf                93
 numerica                 95
 hyperxmp                116
@@ -211,7 +212,7 @@ lua-visual-debug          5
 barracuda                 6
 semesterplanner           6
 yamlvars                  6
-pylualatex                7
+pyluatex                  7
 truthtable                8
 innerscript              14
 luaul                    18
