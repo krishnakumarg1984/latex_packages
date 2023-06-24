@@ -1,8 +1,12 @@
-git-latexdiff https://gitlab.com/git-latexdiff/git-latexdiff
-jupynotex     https://github.com/facundobatista/jupynotex/
-texsurgery    1
-tikztosvg     2
-albatross     9
+git-latexdiff   https://gitlab.com/git-latexdiff/git-latexdiff
+jupynotex       https://github.com/facundobatista/jupynotex/
+pdfjam          https://github.com/rrthomas/pdfjam
+texfindpackage  https://github.com/lvjr/texfindpkg
+texsurgery      1
+tikztosvg       2
+albatross       9
+luafindfont    11
+latexindent   184
 
 
 chktex
