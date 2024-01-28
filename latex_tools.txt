@@ -1,1 +1,7 @@
-albatross 8
+> vim: nospell
+
+git-latexdiff 0
+media4svg     0
+tikztosvg     2
+albatross     8
+dvisvgm       16
