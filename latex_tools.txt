@@ -1,7 +1,38 @@
 > vim: nospell
 
-git-latexdiff 0
-media4svg     0
-tikztosvg     2
-albatross     8
-dvisvgm       16
+albatross        9
+dvisvgm         16
+git-latexdiff  https://gitlab.com/git-latexdiff/git-latexdiff
+jupynotex      https://github.com/facundobatista/jupynotex/
+latexindent    184
+luafindfont    11
+media4svg       0
+pdfjam          https://github.com/rrthomas/pdfjam
+texfindpackage  https://github.com/lvjr/texfindpkg
+texsurgery      1
+tikztosvg       2
+
+
+chktex
+------
+https://tex.stackexchange.com/questions/264109/when-is-leading-opening-whitespace-of-a-line-in-a-tex-file-important
+https://tex.stackexchange.com/questions/46740/is-there-a-way-to-make-chktex-ignore-tikz-code
+https://tex.stackexchange.com/questions/405583/what-is-the-chktex-approved-way-of-writing-open-intervals
+https://tex.stackexchange.com/questions/263101/how-to-supress-chktex-errors-in-minted-environment
+https://tex.stackexchange.com/questions/369915/no-space-with-after-parenthesis-but-needed
+https://tex.stackexchange.com/questions/473080/chktex-21-this-command-might-not-be-intended-21
+https://tex.stackexchange.com/questions/536190/how-to-use-chktexrc-to-control-warnings-on-dashes
+https://tex.stackexchange.com/questions/552210/avoid-command-terminated-with-space-warning-in-newcommand-used-in-math-mode
+https://tex.stackexchange.com/questions/263225/should-i-remove-spaces-at-the-beginning-of-a-line-containing-only-a-footnote
+https://tex.stackexchange.com/questions/469942/chktex-complains-about-no-italic-correction-found-how-to-fix-this
+https://tex.stackexchange.com/questions/380929/using-crefformat-with-cleveref-causes-spurious-chktex-warnings
+https://tex.stackexchange.com/questions/234850/chktex-disable-warning-about-for-certain-macros-when-using-cleveref-with-vario
+https://tex.stackexchange.com/questions/473890/chktex-warning-you-ought-to-not-use-primitive-tex-in-latex-code
+https://tex.stackexchange.com/questions/562891/non-breaking-space-should-have-been-used-in-table
+https://tex.stackexchange.com/questions/627808/why-does-chktex-complain-when-there-is-a-space-after-itshape-but-not-when-bfse
+https://tex.stackexchange.com/questions/641076/chktex-wrong-length-of-dash-may-have-been-used-8
+https://tex.stackexchange.com/questions/641885/how-can-i-prevent-you-should-put-a-space-in-front-of-parenthesis-message-for
+https://tex.stackexchange.com/questions/615466/function-endhead-and-endfirst-head-gets-warning-for-command-terminated-wi
+https://tex.stackexchange.com/questions/596245/is-there-a-way-to-disable-chktex-in-a-specific-directory
+https://tex.stackexchange.com/questions/583501/silencing-chktex-numdash-warnings-only-within-certain-commands
+https://tex.stackexchange.com/questions/611369/ignore-verb-in-chktexrc
